@@ -9,14 +9,6 @@
 
 > I am available for any type of request.
 
-| Languages |
-|-----------|
-| `Lua` |
-| `Python`|
-| `Html`      |
-| `Css`       |
-| `Js`        |
-
 
 <!--
 **Yoltix02/Yoltix02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
