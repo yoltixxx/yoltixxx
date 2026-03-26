@@ -1,9 +1,5 @@
 ### Hi there 👋
 ---
-
-- 🖥 Learned FIVEM Development  
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
 - 💬 Ask me about Discord (yoltix)
 ---
 
