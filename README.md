@@ -13,7 +13,6 @@
 - 🏴‍☠️ Développeur en alternance chez **[Grandline](https://grandlinefa.fr)**, un serveur GTA RP de **+23 000 membres**
 - 🎮 Spécialisé en **scripting de jeux** (FiveM, nanos world, Garry's Mod) et en **interfaces web** (Vue, React)
 - 🌱 En ce moment : **C#** et l'**IA appliquée**
-- 🚀 À la recherche d'une **alternance en Bac+3** (développement d'applications) pour la rentrée 2027
 
 ## 🛠️ Stack
 
